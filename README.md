@@ -7,8 +7,9 @@
 1. Repérer les problèmes existants sur le site
 1. Création de contexte pour les tests utilisateurs
 1. Tests utilisateurs (voir Amélie Boucher)
-1. Synthèse des problèmes rencontrer
+1. Synthèse des problèmes rencontrer (sous forme de texte)
 1. Refonte du site (attention difficile et bcp)
+1. Power-Point
 
 ## Anysurfer
 
@@ -18,7 +19,7 @@
 1. Contenu
 	1. Texte
 		1. Chaque page possède un titre significatif
-		1. 
+		1. /
 		1. La langue de chaque page est indiquée lang="de" ou lang="fr-BE"
 	1. Images
 		1. Chaque image a un attribut alt : Non car ce sont des images de décoration.
