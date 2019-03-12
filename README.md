@@ -9,7 +9,7 @@
 1. Tests utilisateurs (voir Amélie Boucher)
 1. Synthèse des problèmes rencontrer (sous forme de texte)
 1. Refonte du site (attention difficile et bcp)
-1. Power-Point
+1. Power-Poin
 
 ## Anysurfer
 
@@ -61,3 +61,23 @@
     1. Microsoft Silverlight /
     1. Documents Office /
     1. Documents PDF /
+
+## But du site 
+
+Le site AirBnb offre la possiblité à toutes personnes aillant accès à internet de :  
+* planifier un voyage
+* trouver un hotel, appartement ou simplement une place pour dormir
+* louer des chambres etc
+* offrir des guides  
+
+Le groupe cible du site sont très varié :
+* Les peronnes qui cherchent une chambre
+* Les personnes qui veulent louer des chambres
+* Les guides touristiques
+* les personnes qui gagnent de l'argent avec le tourisme
+
+## Storys
+
+Le soir, tu es dans une petite ronde avec des copains. Vous buvez deux ou trois verres et soudainement un de vos amis dit que ça faisait longtemps que vous n'avez plus fait de city-trip ensamble. Après avoir discuté un peu vous venez sur l'idée de partir à Paris pour un long week-end. Vous cherchez une date pour partir et vous trouvez que pendant les vacances de Pâques c'est le plus intéressant, de préférende le 12, 13 et 14 avril. Trouvez une chambre à Paris pour 6 personnes qui ne coute pas plus de 600&euro; pour les deux nuits.
+
+Vous êtes guide touristique à La Calamine et vous proposez des rendonnées à vélo dans les pays des trois frontières. Pour le moment il n'y a pas beaucoup de demandes. D'un ami vous avez entendu qu'il y a une fonction pour les guides sur airbnb et pour augmenter le nombre de visiteurs vous choisissez de mettre une annonce sur le site. Créer l'annonce et enregistrer la pour pouvoir y revenir plus tard. Déconnecter vous.
