@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>AirBnb - Recherche</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="./style.css">
+</head>
+<body>
+
+	<form action="index.html" method="get">
+		<div class="menu">
+			<button id="close"><svg viewBox="0 0 12 12" role="img" aria-label="Fermer le panneau de filtres et réinitialiser les modifications non enregistrées" focusable="false" style="height: 15px; width: 15px; display: block; fill: rgb(72, 72, 72);"><path d="m11.5 10.5c.3.3.3.8 0 1.1s-.8.3-1.1 0l-4.4-4.5-4.5 4.5c-.3.3-.8.3-1.1 0s-.3-.8 0-1.1l4.5-4.5-4.4-4.5c-.3-.3-.3-.8 0-1.1s.8-.3 1.1 0l4.4 4.5 4.5-4.5c.3-.3.8-.3 1.1 0s .3.8 0 1.1l-4.5 4.5z" fill-rule="evenodd"></path></svg></button>	
+			<input type="reset" name="reset" value="Effacer">
+		</div>
+		<fieldset>
+			<legend>Réservation instantanée</legend>
+			<label for="reservation">Réservation instantanée</label>
+			<label class="switch">
+				<input id="reservation" type="checkbox">
+				<span class="slider round"></span>
+			</label>
+			<p>Logements que vous pouvez réserver sans attendre l'approbation de l'hôte</p>
+		</fieldset>
+		<fieldset class="familles">			
+			<legend>Type de voyage</legend>
+			<div>				
+				<label for="type">Pour les familles</label>
+				<label class="switch">
+					<input id="type" type="checkbox">
+					<span class="slider round"></span>
+				</label>
+				<p>Découvrez des logements 5 étoiles adaptés aux familles, avec notamment cuisine et télévision.</p>
+			</div>
+			<div>
+				<label for="pro">Pour les voyages pro</label>
+				<label class="switch">
+					<input id="pro" type="checkbox">
+					<span class="slider round"></span>
+				</label>
+				<p>Découvrez des logements avec d'excellentes évaluations, espace de travail, Wi-Fi et arrivée autonome.</p>
+			</div>
+		</fieldset>
+		<fieldset class="prix">
+			<legend>Fourchette de prix</legend>
+			<span>Le prix moyen par nuit est de 65€</span>
+			<p>Logements que vous pouvez réserver sans attendre l'approbation de l'hôte</p>
+			<label for="minimum">Minimum</label>
+			<input type="number" id="minimum" value="0">-
+			<label for="maximum">Maximum</label>
+			<input type="number" id="maximum" value="1000">
+		</fieldset>
+		<fieldset class="logement">
+			<legend>Type de logement</legend>
+			<div>				
+				<input type="checkbox" id="logement">
+				<label for="logement">Logement entier <span>Un logement entier, rien que pour vous.</span></label>
+			</div>
+			<div>				
+				<input type="checkbox" id="dipo">
+				<label for="dipo">Chambre privée <span>Disposez de votre propre chambre et partagez les espaces communs.</span></label>
+			</div>
+			<div>				
+				<input type="checkbox" id="chambre">
+				<label for="chambre">Chambre d'hôtel <span>Disposez d'une chambre privée ou partagée dans un boutique-hôtel, une auberge de jeunesse, etc.</span></label>
+			</div>
+			<div>				
+				<input type="checkbox" id="partage">
+				<label for="partage">Chambre partagée <span>Votre espace est partagé (ex. une chambre commune).</span></label>
+			</div>
+		</fieldset>
+		<div class="sub">	
+			<input type="submit" value="Afficher plus de 300 logements">
+		</div>
+	</form>
+	<script type="text/javascript" src="./script.js"></script>
+</body>
+</html>
