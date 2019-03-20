@@ -9,7 +9,7 @@
 1. Tests utilisateurs (voir Amélie Boucher)
 1. Synthèse des problèmes rencontrer (sous forme de texte)
 1. Refonte du site (attention difficile et bcp)
-1. Power-Poin
+1. Power-Point
 
 ## Anysurfer
 
@@ -78,6 +78,17 @@ Le groupe cible du site sont très varié :
 
 ## Storys
 
-Le soir, tu es dans une petite ronde avec des copains. Vous buvez deux ou trois verres et soudainement un de vos amis dit que ça faisait longtemps que vous n'avez plus fait de city-trip ensamble. Après avoir discuté un peu vous venez sur l'idée de partir à Paris pour un long week-end. Vous cherchez une date pour partir et vous trouvez que pendant les vacances de Pâques c'est le plus intéressant, de préférende le 12, 13 et 14 avril. Trouvez une chambre à Paris pour 6 personnes qui ne coute pas plus de 600&euro; pour les deux nuits.
+Le soir, tu es dans une petite ronde avec des copains.
+Vous buvez deux ou trois verres et soudainement un  de vos amis dit que ça faisait longtemps que vous n'avez plus fait de city-trip ensemble.  
+Après avoir discuté un peu vous venez sur l'idée de partir à Paris pour un long week-end. Vous cherchez une date pour partir et vous trouvez que pendant les vacances de Pâques c'est le plus intéressant, de préférence le 12, 13 et 14 avril. Vous devez alors vous inscrire sur le site, trouvez une chambre à Paris pour    6 personnes qui ne coûtent pas plus de 600€ pour les deux nuits et partagez cette offre à l'un de vos amis.  
 
-Vous êtes guide touristique à La Calamine et vous proposez des rendonnées à vélo dans les pays des trois frontières. Pour le moment il n'y a pas beaucoup de demandes. D'un ami vous avez entendu qu'il y a une fonction pour les guides sur airbnb et pour augmenter le nombre de visiteurs vous choisissez de mettre une annonce sur le site. Créer l'annonce et enregistrer la pour pouvoir y revenir plus tard. Déconnecter vous.
+Ta copine et toi, vous vouliez passer un week-end à Venise. Tu es allé sur le site de Airbnb et tu avais trouvé une chambre pour 2 nuits. Tu étais content, car la chambre n’était pas trop chère et de plus, elle est située au centre-ville.  
+Vous volez avec Bruxelles Airlines et arrivé à l’aéroport de Rome. Tout se passe comme prévu, jusqu’à ce que vous arrivez devant la maison dans laquelle vous êtes loués et vous sonnez. Mais, personne ne vous ouvre la porte. Vous essayez de contacter le locataire, mais il ne répond pas. Après avoir essayé pendant 2 heures, vous décidez de contacter Airbnb, car vous êtes à Venise à 12h00 et vous ne savez pas quoi faire.  
+Trouve un moyen de contacter Airbnb, pour leur demander de l’aide.
+
+
+## Problèmes rencontrés
+
+Mobile : 
+* Dorian à rencontré des soucis pour l'utilisation du slider ([voir la vidéo](./videos/)) (utilisabilité)
+* Noël à eu des problèmes pour trouver les filtres pour le budget.
