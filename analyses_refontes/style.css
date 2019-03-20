@@ -120,6 +120,15 @@
   form {
     font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
   }
+  .menu {
+    width: 100%;
+    height: 3em;
+    border-bottom: 1px solid lightgrey;
+    position: sticky;
+    top: 0;
+    left: 0;
+    background: #fff;
+  }
 .menu input{
       border: none;
     background: transparent;
@@ -244,7 +253,7 @@ p {
     border-radius: 2px;
     position: relative;
     top: -20px;
-    right: 0;
+    right: -48px;
   }
   .logement div {
     margin-top: 1em;
